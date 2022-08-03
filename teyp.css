@@ -1,0 +1,127 @@
+body{
+    font: 1em/1.3 Arial, Helvetica, sans-serif;
+    background-color: #F3F9FE;
+    margin: 10px 10%;
+    text-align: justify;
+}
+ 
+h1{
+   color: #606D78;
+   text-align: center;
+
+}
+h3#web{
+    color: #7a95af;
+    text-align: center;
+ 
+ }
+
+ p#contactos{
+
+    color: #0c4578;
+
+
+ }
+ table#tabla{
+
+    color: #0c7873;
+}
+
+select#eso{
+    background-color: #d6ddfb;
+    color: #0c7873;
+}
+a{
+    font-family: unset;
+
+
+    
+}
+p#textox{
+    margin-right: 3%;
+    margin-left: 5%;
+    text-indent: 2rem;
+    color: #272a2a;
+    
+}
+
+ img#robotica {
+    float: right;
+    margin: 55px 10px 10px 0px;
+    width: 20%;
+
+}
+
+img#instagram {
+    float: left;
+    margin: 0px 10px 10px 0px;
+    width: 2%;
+
+}
+img#facebook {
+    float: left;
+    margin: 0px 10px 0px 0px;
+    width: 2%;
+
+}
+img#whatsapp {
+    float: left;
+    margin: 0px 10px 0px 0px;
+    width: 2%;
+
+}
+img#github {
+    float: left;
+    margin: 0px 10px 0px 0px;
+    width: 2%;
+
+}
+
+p#tematica {
+    color: #105858;
+    float: left;
+    margin: 40px 10px 10px 100px;
+    width: 2%;
+
+}
+p#gmail {
+    color: #105858;
+    float: left;
+    margin: 60px 10px 10px 120px;
+   
+
+}
+p#remitente {
+    color: #105858;
+    float: left;
+    margin: 60px 10px 10px 30px;
+ 
+
+}
+p#tema {
+    color: #105858;
+    float: left;
+    margin: 60px 10px 10px 0px;
+   
+
+}
+p#quien {
+    color: #105858;
+    text-align: left;
+    margin: 0px 10px 10px 0px;
+ 
+
+}
+
+textarea#temas {
+    text-align: left;
+    margin: 60px 10px 10px 0px;
+    background-color: #d6ddfb;
+}
+input#inputs{
+    background-color: #d6ddfb;
+}
+button#boton{
+    margin: 70px 10px 10px 20px;
+    background-color: #d0d0d0;
+}
